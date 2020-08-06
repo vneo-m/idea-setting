@@ -1,0 +1,8 @@
+<templateSet group="plain">
+  <template name="St" value="String " description="字符串" toReformat="false" toShortenFQNames="false" />
+  <template name="psf" value="public static final " description="公共静态最终" toReformat="false" toShortenFQNames="false" />
+  <template name="prsf" value="private static final " description="私有静态 final" toReformat="false" toShortenFQNames="false" />
+  <template name="psfi" value="public static final int " description="公共静态最终int" toReformat="false" toShortenFQNames="false" />
+  <template name="psfs" value="public static final String " description="公共静态最终字符串" toReformat="false" toShortenFQNames="false" />
+  <template name="thr" value="throw new " description="引发新" toReformat="false" toShortenFQNames="false" />
+</templateSet>
