@@ -3,11 +3,12 @@
     <option name="customScope" />
     <option name="defaultScopeName" />
     <option name="SEARCH_SCOPE" />
-    <mask>*.css</mask>
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
+    <mask>*.css</mask>
   </component>
 </application>
